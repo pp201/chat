@@ -1,3 +1,4 @@
+# structure of coding
 
 def read_file(filename):
 	lines = []
